@@ -8,4 +8,5 @@ public class BasicMemberService {
     }
     return "Hello, " + name + "!";
   }
+  error
 }
